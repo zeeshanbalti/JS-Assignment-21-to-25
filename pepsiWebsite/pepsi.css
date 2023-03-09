@@ -1,0 +1,438 @@
+body{
+
+}
+.Navbar{
+    background-color: #0065c3;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    color: white;
+    font-size: 13px;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    /* text-align: center; */
+    /* align-items: center; */
+    padding-top: 20px;
+  
+    /* background-image: url(./pepsilogo.img.png); */
+    /* background-repeat: no-repeat; */
+     
+}
+.Navbar{
+    position: sticky;
+    top: 2px;
+}
+.Navbar1{
+    margin: 0px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+}
+.Navbar1A{
+ margin-bottom: 20x;
+ /* padding-top: -400px; */
+ /* margin-bottom: 20px; */
+}
+
+.btn-group{
+    background-color:  #0065c3 ;
+    padding-left: 70px;
+    padding-bottom: 10px;
+     
+}
+
+
+.dropdown-menuA{
+    display: flex;
+    padding: 50px;
+    width: 100%;
+    height: 100%;
+    justify-content: space-between;
+}
+.dropdown-menuA1{ 
+
+}
+
+.visually-hidden{
+    border: 2px solid white;
+}
+.button{
+    border-radius: 20px;
+    color: white;
+    border: 2px solid #0065c3;
+    background-color:  #0065c3 ;
+    /* padding: 199px; */
+}
+.button:hover{
+    background-color: rgb(47, 74, 108);
+}
+.Navbar2{
+    padding-left: 40px;
+    padding-top: 10px;
+     
+}
+.p1:hover{
+    background-color: rgb(47, 74, 108);
+}
+.p2:hover{
+    background-color: rgb(47, 74, 108);
+}
+.p3:hover{
+    background-color: rgb(47, 74, 108);
+}
+.Navbar3{
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.Navbar4{
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.Navbar5{
+    padding-left: 30%;
+    padding-top: 10px;
+    color: white;
+/* text-indent: 400px; */
+  
+    
+} 
+.buyButton{
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: #0065c3;
+    color: white;
+}
+.buyButton:hover{
+    background-color: rgb(89, 27, 116);
+
+}
+.cheeckbtn{
+    font-size: 50px;
+}
+
+
+
+   /* second */
+
+.second{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background-color: black;
+     /* position: fixed; */
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/pzs-new-taste/new-improved-taste.svg);
+    background-repeat: no-repeat;
+    background-position:  center  right 550px;
+    /* z-index: inherit; */
+}   
+
+.second1{
+    width: 70%;
+    /* height: auto; */
+}
+.second2{
+    width: 30%;
+    height: auto;
+    /* padding: 10px; */
+    padding-top: 140px;
+    /* text-indent: -200px; */
+}
+
+.secondimg2{
+    text-indent: 200px;
+}
+.secondA{
+    display: flex;
+    padding: 10px;
+}
+
+
+    /* third */
+
+.third{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding: 35px 0px;
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/nitro/Desktop_Background.png);
+    background-position: 50% center;
+} 
+.third1{
+    width: 100%;
+    height: 100%;
+    padding-left: 310px;
+}
+.third2{
+    padding-right: 250px;
+    padding-top: 130px;
+}
+.thirdh6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: white;
+    margin-top: 3px;
+    padding-left: 25px;
+}
+.third2 button{
+    border: 2px solid white;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 75px;
+    background-color: #205f97;
+    color: white;
+
+}
+
+
+
+        /* Fourth */
+
+.four{
+    display: flex;
+   width: 100%;
+   color: white;
+    height: 100%;
+   background-color: #265cc5;
+}        
+
+.four1{
+margin: 20px;
+
+
+}
+.four1 h6{
+    padding-left: 78px;
+    margin-top: 8px;
+}
+.four1A{
+    margin: 3px;
+    background-color: rgb(39, 39, 168);
+}
+.four1B{
+    margin: 5px;
+    background-color: rgb(39, 39, 168);
+}
+.four3{
+    /* margin-left: 20px;  */
+    padding-left: 20px;
+    /* background-image: url(https://www.pepsi.com/en-us/uploads/images/better-with-pepsi/tag-line@3x.png);
+    background-repeat: no-repeat;
+    background-position: bottom right; */
+}
+
+
+   /* Fifth */
+
+.fifth{  
+    background-color: rgb(50, 49, 150);
+    display: flex;
+    /* padding-top: 120px; */
+    background-image: url(./mango);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fifth1{
+    padding-top: 0px;
+    padding-left: 40px;
+}
+.fifth2{
+    width: 100%;
+    padding-top: 200px;
+    padding-left: 60px;
+
+}
+
+
+/* sixth */
+
+
+
+
+
+/* seventh */
+
+.seven{
+    display: flex;
+    justify-content: space-between;
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/nitro/Desktop_Background.png);
+    background-position: 50% center;
+}
+.seven1{
+    width: 100%;
+    height: 80%;
+    padding-top: 50px;
+}
+.seven2{
+    width: 90%;
+    height: 80%;
+    padding-top: 100px;
+    padding-left: 120px;
+}
+
+
+/* eight */
+
+.eight{
+    background-image: url(https://www.pepsi.com/en-us/uploads/04_Generation_BG_D_2.png?mtime=20181217151706);
+    padding: 50px;
+    margin-top: 3px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.eight1{
+    padding-left: 90px;
+    
+
+
+}
+.eight1 h1{
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.eightbullon{
+    border: 2px solid white;
+    border-radius: 20px;
+    color: white;
+    background-image: url(https://www.pepsi.com/en-us/uploads/04_Generation_BG_D_2.png?mtime=20181217151706);
+}
+.eightbullon:hover{
+    background-color: white;
+}
+.eight2{
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+
+
+.nine{
+display: flex;
+padding-left: 40px;
+}
+.nineh1{
+    font-family: Cervo Neue Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin: 0;
+    padding-left: 150px;
+    color: #0065c3;
+}
+.nine1{
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/social-twitter.png?mtime=20180110134932);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+
+
+/* Last */
+
+
+.last{
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    align-items: center;
+    /* text-align: center; */
+    background-color: #0065c3;
+     
+}
+.last1{
+    padding-left: 40px;
+    padding-top: -3px;
+}
+.last2{
+    padding-left: 80px; 
+}
+.last2A{
+    margin: 5px;
+    color: white;
+    border: 2px solid #0065c3 !important;
+    background-color: #0065c3;
+}
+.last2B{
+    margin: 5px;
+    color: white;
+    border: 2px solid #0065c3;
+    background-color: #0065c3;
+}
+.last2C{
+    margin: 5px;
+    color: white;
+    border: 2px solid #0065c3 !important;
+    background-color: #0065c3;
+}
+
+.last3{
+padding-left: 100px;
+
+}
+
+.last3A{
+    margin: 5px;
+    color: white;
+    border: 2px solid #0065c3;
+    background-color: #0065c3;
+}
+.last3B{
+    margin: 5px;
+    color: white;
+    border: 2px solid #0065c3;
+    background-color: #0065c3;
+}
+.last3C{
+    margin: 5px;
+    color: white;
+    border: 2px solid #0065c3;
+    background-color: #0065c3;
+}
+.last4{
+    padding-left: 100px;
+    }
+.last4A{
+    margin: 5px;
+    color: white;
+    border: 2px solid #0065c3;
+    background-color: #0065c3;
+}
+.last4B{
+    margin: 5px;
+    color: white;
+    border: 2px solid #0065c3;
+    background-color: #0065c3;
+}
+.last4C{
+    margin: 5px;
+    color: white;
+    border: 2px solid #0065c3;
+    background-color: #0065c3;
+}
+
+
+.last5A{
+    margin: 5px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: #0065c3;
+}
+
+ .last5{
+        padding-left: 100px;
+}
+.last5linkA{
+    margin-left: 10px;
+}
+
+.last5linkB{
+    margin-left: 20px;
+}
+.last5linkC{
+    margin-left: 20px;
+}
+
+.last5linkD{
+    margin-left: 20px;
+}
+
+
